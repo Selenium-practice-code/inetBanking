@@ -1,0 +1,14 @@
+INFO    2021-10-10 15:46:29,360 [main] com.inetbanking.base.TestBase  - Config Properties File loaded
+INFO    2021-10-10 15:46:35,294 [main] com.inetbanking.base.TestBase  - Chrome Browser Launched
+INFO    2021-10-10 15:46:38,525 [main] com.inetbanking.base.TestBase  - Navigated to :-> http://demo.guru99.com/v4/
+INFO    2021-10-10 15:46:41,492 [main] com.inetbanking.base.TestBase  - Enter UserID :-> mngr357508 Enter Password :-> rapYjaz
+INFO    2021-10-10 15:46:41,504 [main] com.inetbanking.base.TestBase  - Login Passed
+INFO    2021-10-10 15:46:45,644 [main] com.inetbanking.base.TestBase  - Enter UserID :-> mngr357508 Enter Password :-> rapYjaz
+INFO    2021-10-10 15:46:45,646 [main] com.inetbanking.base.TestBase  - Login Passed
+INFO    2021-10-10 15:46:48,228 [main] com.inetbanking.base.TestBase  - Test Execution Completd !!!
+INFO    2021-10-10 15:46:51,019 [main] com.inetbanking.base.TestBase  - Chrome Browser Launched
+INFO    2021-10-10 15:46:53,700 [main] com.inetbanking.base.TestBase  - Navigated to :-> http://demo.guru99.com/v4/
+INFO    2021-10-10 15:46:55,948 [main] com.inetbanking.base.TestBase  - Login As User
+INFO    2021-10-10 15:46:55,949 [main] com.inetbanking.base.TestBase  - Enter New Customer Details
+INFO    2021-10-10 15:46:58,586 [main] com.inetbanking.base.TestBase  - Validation...
+INFO    2021-10-10 15:46:58,684 [main] com.inetbanking.base.TestBase  - Test Execution Completd !!!
